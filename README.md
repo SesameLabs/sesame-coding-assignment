@@ -20,7 +20,7 @@ Welcome to Sesame’s coding challenge, in which you will build a Questing Platf
 **Directions**
 
 - Take about 8 hours to work on this assignment. Please complete this exercise yourself, however feel free to Google and use other references.
-- Please fork this repository to start working on this project. Add a detailed README that provides easily understandable instructions on how to run your code on local machine.
+- Please create a GitHub repository to start working on this project. Do not fork this repo, since private forks aren't possible in Github. Add a detailed README that provides easily understandable instructions on how to run your code on local machine.
 - This will be followed by a 45 min interview where you will be asked to explain your decisions and asked to describe about challenges and opportunities with your solution
 - In addition to correctness, we will be evaluating based on code structure, readability, and extensibility. It does not need to be over-engineered, however should be solid production level code.
 - Please reach out if you have any questions.
