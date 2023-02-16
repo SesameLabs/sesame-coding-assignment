@@ -16,7 +16,7 @@ Welcome to Sesame’s coding challenge, in which you will build a Questing Platf
 
 **References**
 
-- Quest3 ([https://sesamelabs.xyz/sesame/quests/sesame-labs-coding-assignment/](https://sesamelabs.xyz/sesame/quests/sesame-labs-coding-assignment/)) can be used for reference for how the flow and the verification should work. Feel free to use that as reference when designing your solution.
+- Our dummy quest ([https://sesamelabs.xyz/sesame/quests/sesame-labs-coding-assignment/](https://sesamelabs.xyz/sesame/quests/sesame-labs-coding-assignment/)) can be used for reference for how the flow and the verification should work. Feel free to use that as reference when designing your solution.
 
 **Directions**
 
